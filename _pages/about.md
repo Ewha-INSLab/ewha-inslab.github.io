@@ -24,7 +24,7 @@ latest_posts:
 
 **INSLab** at **Ewha Womans University**
 
-We research intelligent systems that learn, communicate, and collaborate across devices, networks, and modalities.
+We design intelligent systems that learn, adapt, and collaborate across devices, networks, and modalities.
 
 ### Research
 
