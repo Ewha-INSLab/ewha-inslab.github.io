@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Us
+title: join us
 permalink: /join-us/
 description: Opportunities for PhD, MS, and postdoctoral researchers at the Intelligent Networked Systems Lab.
 nav: true
@@ -23,4 +23,4 @@ Seoul 03760, Republic of Korea
 
 **Tel:** +82-2-3277-3505  
 **Fax:** +82-2-3277-2306  
-**Email:** [inslab.ewha@gmail.com](mailto:inslab.ewha@gmail.com)
+**Email:** [inslab.ewha AT gmail.com](mailto:inslab.ewha@gmail.com)
