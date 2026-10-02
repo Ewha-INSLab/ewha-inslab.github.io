@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 permalink: /teaching/
 description: Courses taught by Prof. HyungJune Lee at Ewha Womans University.
 nav: true
