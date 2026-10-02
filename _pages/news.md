@@ -17,7 +17,7 @@ Our PhD alumnus **Dr. JinYi Yoon** has joined Inha University as an Assistant Pr
 
 ### July 2025
 
-Our paper, **"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"** has been accepted for publication at *IEEE MASS 2025*. **Acceptance Rate: 29.6%**
+Our paper, **"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"** has been accepted for publication at *IEEE MASS 2025*. (**Acceptance Rate: 29.6%**)
 
 ### December 2024
 
