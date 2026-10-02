@@ -26,15 +26,14 @@ latest_posts:
 
 We design intelligent systems that learn, adapt, and collaborate across devices, networks, and modalities.
 
-### Research
+### Research Areas
 
-Our research focuses on:
+Our research focuses on intelligent systems that learn, adapt, sense, and collaborate across devices, networks, and modalities.
 
 - **Federated & Collaborative AI**
-- **Continual & Edge AI**
 - **Multimodal AI**
-- **Indoor Localization**
-- **Networked Intelligence**
+- **Intelligent Sensing & Localization**
+- **Trustworthy & Secure AI**
 
 ### Selected Projects
 
