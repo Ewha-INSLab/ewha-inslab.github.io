@@ -65,7 +65,7 @@ nav_order: 1
       <div class="card-body">
         <div class="text-center mb-3">
           <img
-            src="/assets/img/people/hongkyeong_jung.jpg"
+            src="/assets/img/people/hongkyeong_jung.png"
             class="rounded-circle"
             style="width: 120px; height: 120px; object-fit: cover;"
             alt="Hongkyeong Jung"
