@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Selected research projects from the Intelligent Networked Systems Lab.
+title: Research
+permalink: /research/
+description: Research areas and selected research projects of the Intelligent Networked Systems Lab.
 nav: true
-nav_order: 4
-horizontal: false
+nav_order: 2
 ---
 
 <!-- pages/projects.md -->
