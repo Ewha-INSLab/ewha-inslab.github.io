@@ -17,7 +17,8 @@ Our PhD alumnus **Dr. JinYi Yoon** has joined Inha University as an Assistant Pr
 
 ### July 2025
 
-Our paper, **"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"** has been accepted for publication at *IEEE MASS 2025*.
+Our paper, **"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"** has been accepted for publication at *IEEE MASS 2025*.  
+**Acceptance Rate: 29.6%**
 
 ### December 2024
 
@@ -49,7 +50,8 @@ Our paper, **"Predictive Path Planning of Multiple UAVs for Effective Network Ho
 
 ### June 2023
 
-Our paper, **"VersatileFL: Volatility-Resilient Federated Learning in Wireless Edge Networks,"** has been accepted for publication at *IEEE SECON 2023*.
+Our paper, **"VersatileFL: Volatility-Resilient Federated Learning in Wireless Edge Networks,"** has been accepted for publication at *IEEE SECON 2023*.  
+**Acceptance Rate: 43/182 = 23.6%**
 
 ### August 2022
 
@@ -81,7 +83,8 @@ Our paper, **"Rendezvous: Opportunistic Data Delivery to Mobile Users by UAVs th
 
 ### December 2019
 
-Our paper, **"PUFGAN: Embracing a Self-Adversarial Agent for Building a Defensible IoT Security Architecture,"** has been accepted to *IEEE INFOCOM 2020*.
+Our paper, **"PUFGAN: Embracing a Self-Adversarial Agent for Building a Defensible IoT Security Architecture,"** has been accepted to *IEEE INFOCOM 2020*.  
+**Acceptance Rate: 268/1354 = 19.8%**
 
 ### August 2018
 
@@ -93,7 +96,8 @@ Our paper, **"Towards Self-Organizing UAV Ad-Hoc Networks Through Collaborative 
 
 ### January 2018
 
-Our paper, **"Constructing Full-Coverage 3D UAV Ad-Hoc Networks Through Collaborative Exploration in Unknown Urban Environments,"** has been accepted to *IEEE ICC 2018*.
+Our paper, **"Constructing Full-Coverage 3D UAV Ad-Hoc Networks Through Collaborative Exploration in Unknown Urban Environments,"** has been accepted to *IEEE ICC 2018*.  
+**Acceptance Rate: 39.99%**
 
 ### December 2017
 
@@ -109,7 +113,8 @@ Our paper, **"Adaptive Path Planning of UAVs for Delivering Delay-Sensitive Info
 
 ### November 2016
 
-Our paper, **"PUFSec: Device Fingerprint-based Security Architecture for Internet of Things,"** has been accepted to *IEEE INFOCOM 2017*.
+Our paper, **"PUFSec: Device Fingerprint-based Security Architecture for Internet of Things,"** has been accepted to *IEEE INFOCOM 2017*.  
+**Acceptance Rate: 292/1395 = 20.93%**
 
 ### September 2016
 
@@ -117,4 +122,5 @@ Our paper, **"DMirNet: Inferring Direct microRNA-mRNA Association Networks,"** r
 
 ### November 2015
 
-Our paper, **"Proactive Patrol Dispatch Surveillance System by Inferring Mobile Trajectories of Multiple Intruders Using Binary Proximity Sensors,"** has been accepted to *IEEE INFOCOM 2016*.
+Our paper, **"Proactive Patrol Dispatch Surveillance System by Inferring Mobile Trajectories of Multiple Intruders Using Binary Proximity Sensors,"** has been accepted to *IEEE INFOCOM 2016*.  
+**Acceptance Rate: 300/1644 = 18.25%**
