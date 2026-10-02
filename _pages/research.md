@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: Research areas and selected research projects of the Intelligent Networked Systems Lab.
 nav: true
