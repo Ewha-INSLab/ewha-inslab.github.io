@@ -7,3 +7,25 @@ nav: true
 nav_order: 1
 ---
 
+## Faculty
+
+### HyungJune Lee
+
+Professor, Department of Computer Science and Engineering  
+Ewha Womans University
+
+---
+
+## PhD Students
+
+--- 
+
+## MS Students
+
+---
+
+## Undergraduate Researchers
+
+---
+
+## Alumni
