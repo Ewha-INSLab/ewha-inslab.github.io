@@ -43,9 +43,53 @@ nav_order: 1
 
 ## PhD Students
 
+<div class="row">
+
+  <div class="col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Hongkyeong Jung</h4>
+        <p class="mb-0">
+          <strong>Current Project</strong><br>
+          Multi-modal Federated Learning with Visual-Language Model
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
 ---
 
 ## MS Students
+
+<div class="row">
+
+  <div class="col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Su-hyeon Bae</h4>
+        <p class="mb-0">
+          <strong>Current Project</strong><br>
+          Modality Selection in Multi-modal Federated Learning
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6 mb-4">
+    <div class="card h-100">
+      <div class="card-body">
+        <h4 class="card-title">Eunjin Park</h4>
+        <p class="mb-0">
+          <strong>Current Project</strong><br>
+          Modality Co-Alignment for End-to-End Multi-modal Understanding
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 ---
 
