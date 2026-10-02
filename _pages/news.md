@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News
+title: news
 permalink: /news/
 description: News and updates from the Intelligent Networked Systems Lab.
 nav: true
