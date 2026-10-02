@@ -14,20 +14,25 @@ nav_order: 1
     <div class="card">
       <div class="card-body">
         <h3 class="card-title">HyungJune Lee</h3>
-        <p class="mb-2">
-          <strong>Professor and Head of the Department of Computer Science and Engineering</strong><br>
-          Ewha Womans University
+
+        <p>
+          I am a professor in the Department of Computer Science and Engineering
+          at Ewha Womans University. I have received my Ph.D. in Electrical Engineering
+          at Stanford University.
         </p>
 
         <p>
-          HyungJune Lee is a Professor in the Department of Computer Science and Engineering
-          at Ewha Womans University. He received his Ph.D. from Stanford University and
-          previously worked on mobility-aware networking and intelligent networked systems.
+          My research interests are in the area of AI-driven edge computing architecture
+          and network systems: on-device AI with collaborative learning and prediction over
+          wireless connected edge devices, continual learning and few-shot learning at the edge,
+          on-device AI-based network intrusion detection system, generative AI-driven indoor
+          localization for unknown environments, behavioral/predictive modeling of user mobility,
+          and Internet-of-Things (IoT) and edge computing infrastructure design and applications.
         </p>
 
         <p class="mb-0">
-          His current research focuses on federated learning, continual learning, edge AI,
-          multimodal AI, and intelligent sensing and localization.
+          I lead the
+          <a href="https://ewha-inslab.github.io/">Intelligent Networked Systems Lab</a>.
         </p>
       </div>
     </div>
@@ -38,46 +43,14 @@ nav_order: 1
 
 ## PhD Students
 
-<div class="row">
-  <div class="col-12">
-    <p class="text-muted">
-      Information about current PhD students will be updated soon.
-    </p>
-  </div>
-</div>
-
 ---
 
 ## MS Students
-
-<div class="row">
-  <div class="col-12">
-    <p class="text-muted">
-      Information about current MS students will be updated soon.
-    </p>
-  </div>
-</div>
 
 ---
 
 ## Undergraduate Researchers
 
-<div class="row">
-  <div class="col-12">
-    <p class="text-muted">
-      Information about undergraduate researchers will be updated soon.
-    </p>
-  </div>
-</div>
-
 ---
 
 ## Alumni
-
-<div class="row">
-  <div class="col-12">
-    <p class="text-muted">
-      Information about INSLab alumni will be updated soon.
-    </p>
-  </div>
-</div>
