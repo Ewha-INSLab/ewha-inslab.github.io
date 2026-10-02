@@ -11,8 +11,8 @@ nav_order: 1
 
 ### HyungJune Lee
 
-Professor and Head of the Department of Computer Science and Engineering  
-Ewha Womans University
+Professor of the Department of Computer Science and Engineering  
+Ewha Womans University, South Korea
 
 HyungJune Lee is a Professor in the Department of Computer Science and Engineering at Ewha Womans University. He received his Ph.D. from Stanford University and previously worked on mobility-aware networking and intelligent networked systems.
 
