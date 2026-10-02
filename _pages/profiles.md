@@ -72,7 +72,7 @@ nav_order: 1
 
           <div class="col-md-3 text-center mb-3 mb-md-0">
             <img
-              src="/assets/img/people/hongkyeong_jung.png"
+              src="/assets/img/hongkyeong_jung.png"
               class="img-fluid rounded"
               style="max-width: 150px;"
               alt="Hongkyeong Jung"
@@ -107,34 +107,7 @@ nav_order: 1
 
           <div class="col-md-3 text-center mb-3 mb-md-0">
             <img
-              src="/assets/img/people/sookyeong_kim.jpg"
-              class="img-fluid rounded"
-              style="max-width: 150px;"
-              alt="Sookyeong Kim"
-            >
-          </div>
-
-          <div class="col-md-9">
-            <h4 class="card-title">Sookyeong Kim</h4>
-            <p class="mb-0">
-              <strong>Research Topic</strong><br>
-              Multi-modal Knowledge Translation via Federated Learning
-            </p>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="col-12 mb-4">
-    <div class="card">
-      <div class="card-body">
-        <div class="row align-items-center">
-
-          <div class="col-md-3 text-center mb-3 mb-md-0">
-            <img
-              src="/assets/img/people/su-hyeon_bae.jpg"
+              src="/assets/img/su-hyeon_bae.jpg"
               class="img-fluid rounded"
               style="max-width: 150px;"
               alt="Su-hyeon Bae"
@@ -161,7 +134,7 @@ nav_order: 1
 
           <div class="col-md-3 text-center mb-3 mb-md-0">
             <img
-              src="/assets/img/people/eunjin_park.jpg"
+              src="/assets/img/eunjin_park.jpg"
               class="img-fluid rounded"
               style="max-width: 150px;"
               alt="Eunjin Park"
