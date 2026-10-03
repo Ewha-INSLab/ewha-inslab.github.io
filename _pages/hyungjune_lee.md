@@ -8,7 +8,7 @@ nav: false
 <div class="row align-items-center mb-4">
 
   <div class="col-md-3 text-center mb-3 mb-md-0">
-    <img src="/assets/img/prof_pic.jpg"
+    <img src="/assets/img/prof_pic.png"
          class="img-fluid rounded"
          style="max-width: 220px;"
          alt="Professor HyungJune Lee">
