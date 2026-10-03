@@ -160,32 +160,6 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/jieun_kim.jpg"
-                 class="img-fluid rounded"
-                 style="max-width: 140px;"
-                 alt="Jieun Kim">
-          </div>
-
-          <div class="flex-grow-1">
-            <h4 class="card-title">Jieun Kim</h4>
-            <p class="mb-0">
-              <strong>Research Topic:</strong>
-              Multi-modal Training via Audio Feature Generation
-            </p>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class="col-12 mb-4">
-    <div class="card">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
-
-          <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
             <img src="/assets/img/yoonseo_kim.jpg"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
