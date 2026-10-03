@@ -13,6 +13,13 @@ latest_posts:
 
 <div class="row align-items-center">
 
+  <div class="col-md-5 text-center">
+    <img src="/assets/img/inslab-overview.png"
+         class="img-fluid"
+         style="width: 100%;"
+         alt="Intelligent Networked Systems Lab">
+  </div>
+  
   <div class="col-md-7">
     <p>
       Intelligent Networked Systems Lab (INSLab) at Ewha Womans University, Korea conducts research in the area of AI-driven edge computing architecture and networked systems, and network theory & algorithm. We address various problems in both fundamental theory and practical system implementation by applying AI, machine learning, statistical techniques, and algorithmic techniques. Our research goal is to bridge the gap between theoretical/algorithmic techniques and their practicality in real-world edge AI systems. Our current research interests lie primarily in the following research areas.
@@ -34,12 +41,7 @@ latest_posts:
     </ul>
   </div>
 
-  <div class="col-md-5 text-center">
-    <img src="/assets/img/inslab-overview.png"
-         class="img-fluid"
-         style="width: 100%;"
-         alt="Intelligent Networked Systems Lab">
-  </div>
+  
 
 </div>
 
