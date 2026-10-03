@@ -15,6 +15,8 @@ If you are interested in working in our research group, please directly contact 
 
 **New:** We currently have an opening for a postdoctoral researcher. Please contact us if you are interested.
 
+<br>
+
 ## Lab Information
 
 **Intelligent Networked Systems Lab (INSLab)**  
