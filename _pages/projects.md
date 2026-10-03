@@ -95,7 +95,7 @@ nav_order: 2
         <div class="row align-items-center">
 
           <div class="col-md-4 text-center mb-3 mb-md-0">
-            <img src="/assets/img/research/brain-human-ai.png"
+            <img src="/assets/img/brain-human-ai.png"
                  class="img-fluid rounded"
                  alt="Brain–Human AI">
           </div>
