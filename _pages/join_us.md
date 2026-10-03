@@ -25,4 +25,4 @@ Seoul 03760, Republic of Korea
 
 **Tel:** +82-2-3277-3505  
 **Fax:** +82-2-3277-2306  
-**Email:** [inslab.ewha AT gmail.com](mailto:inslab.ewha@gmail.com)
+**Email:** inslab.ewha [at] gmail.com
