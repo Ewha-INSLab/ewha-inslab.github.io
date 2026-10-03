@@ -84,8 +84,7 @@ Senior Staff Scientist, 2010–2011
 
 ## Contact
 
-**Intelligent Networked Systems Lab (INSLab)**
-
+**Intelligent Networked Systems Lab (INSLab)**<br>
 Department of Computer Science and Engineering
 Ewha Womans University
 52 Ewhayeodae-gil, Seodaemun-gu
