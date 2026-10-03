@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: Faculty, students, researchers, and alumni of the Intelligent Networked Systems Lab.
+description: Faculty, students, researchers, and alumni of the Intelligent Networked Systems Lab
 nav: true
 nav_order: 1
 ---
