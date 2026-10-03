@@ -3,7 +3,7 @@
 layout: page
 title: Professor HyungJune Lee
 permalink: /hyungjune-lee/
-nav: true
+nav: false
 ----------
 
 <div class="row align-items-center mb-4">
