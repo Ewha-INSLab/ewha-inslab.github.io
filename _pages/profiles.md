@@ -260,7 +260,7 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Dr. JinYi Yoon</strong> — Postdoc (2022-2023), PhD student (2019-2022).
+    <strong>Dr. JinYi Yoon</strong> — Postdoc (2022-2024), PhD student (2019-2022).
     Currently Assistant Professor at Inha University, South Korea.<br>
     <strong>Yeawon Yoo</strong> - Master student (2022-2024).
   </div>
