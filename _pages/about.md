@@ -2,11 +2,6 @@
 layout: about
 permalink: /
 
-profile:
-  align: right
-  image: inslab-overview.png
-  image_circular: false
-
 selected_papers: false
 social: false
 
@@ -16,16 +11,37 @@ latest_posts:
 
 # Intelligent Networked Systems Lab @ Ewha
 
-Intelligent Networked Systems Lab (INSLab) at Ewha Womans University, Korea conducts research in the area of AI-driven edge computing architecture and networked systems, and network theory & algorithm. We address various problems in both fundamental theory and practical system implementation by applying AI, machine learning, statistical techniques, and algorithmic techniques. Our research goal is to bridge the gap between theoretical/algorithmic techniques and their practicality in real-world edge AI systems. Our current research interests lie primarily in the following research areas.
+<div class="row align-items-center">
 
-### Research Areas
+  <div class="col-md-7">
+    <p>
+      Intelligent Networked Systems Lab (INSLab) at Ewha Womans University, Korea conducts research in the area of AI-driven edge computing architecture and networked systems, and network theory & algorithm. We address various problems in both fundamental theory and practical system implementation by applying AI, machine learning, statistical techniques, and algorithmic techniques. Our research goal is to bridge the gap between theoretical/algorithmic techniques and their practicality in real-world edge AI systems. Our current research interests lie primarily in the following research areas.
 
-Our research focuses on intelligent systems that learn, adapt, sense, and collaborate across devices, networks, and modalities.
+    </p>
 
-- **Federated & Collaborative AI**
-- **Multimodal AI**
-- **Intelligent Sensing & Localization**
-- **Trustworthy & Secure AI**
+    <h3>Research Areas</h3>
+
+    <p>
+      Our research focuses on intelligent systems that learn, adapt,
+      sense, and collaborate across devices, networks, and modalities.
+    </p>
+
+    <ul>
+      <li><strong>Federated & Collaborative AI</strong></li>
+      <li><strong>Multimodal AI</strong></li>
+      <li><strong>Intelligent Sensing & Localization</strong></li>
+      <li><strong>Trustworthy & Secure AI</strong></li>
+    </ul>
+  </div>
+
+  <div class="col-md-5 text-center">
+    <img src="/assets/img/inslab-overview.png"
+         class="img-fluid"
+         style="width: 100%;"
+         alt="Intelligent Networked Systems Lab">
+  </div>
+
+</div>
 
 ### News
 
@@ -35,7 +51,9 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">June 2026</small>
-        <h6 class="card-title mt-2">EchoLoc accepted at Interspeech 2026</h6>
+        <p class="card-title mt-2 mb-2">
+          <strong>EchoLoc accepted at Interspeech 2026</strong>
+        </p>
         <p class="mb-0">
           Our paper,
           <strong>"EchoLoc: Audio-Aware Object Grounding via Joint Heatmap and Box-Level Localization,"</strong>
@@ -50,7 +68,9 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">March 2026</small>
-        <h6 class="card-title mt-2">Dr. JinYi Yoon joins Inha University</h6>
+        <p class="card-title mt-2 mb-2">
+          <strong>Dr. JinYi Yoon joins Inha University</strong>
+        </p>
         <p class="mb-0">
           Our PhD alumnus <strong>Dr. JinYi Yoon</strong> has joined Inha University
           as an Assistant Professor in the Department of Computer Engineering.
@@ -64,7 +84,9 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">July 2025</small>
-        <h6 class="card-title mt-2">CollectiveFL accepted at IEEE MASS 2025</h6>
+        <p class="card-title mt-2 mb-2">
+          <strong>CollectiveFL accepted at IEEE MASS 2025</strong>
+        </p>
         <p class="mb-0">
           Our paper,
           <strong>"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"</strong>
@@ -78,7 +100,9 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">December 2024</small>
-        <h6 class="card-title mt-2">CollageMap accepted at IEEE PerCom 2025</h6>
+        <p class="card-title mt-2 mb-2">
+          <strong>CollageMap accepted at IEEE PerCom 2025</strong>
+        </p>
         <p class="mb-0">
           Our paper,
           <strong>"CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization,"</strong>
@@ -92,7 +116,9 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">October 2024</small>
-        <h6 class="card-title mt-2">GAN-Loc accepted at IEEE SECON 2024</h6>
+        <p class="card-title mt-2 mb-2">
+          <strong>GAN-Loc accepted at IEEE SECON 2024</strong>
+        </p>
         <p class="mb-0">
           Our paper,
           <strong>"GAN-Loc: Empowering Indoor Localization for Unknown Areas via Generative Fingerprint Map,"</strong>
@@ -101,5 +127,8 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
       </div>
     </div>
   </div>
+
+</div>
+
 
 </div>
