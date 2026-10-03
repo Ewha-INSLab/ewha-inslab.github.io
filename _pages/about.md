@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: inslab-overview.png
   image_circular: false
 
 selected_papers: false
@@ -34,9 +34,3 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
 - **Multimodal AI**
 - **Intelligent Sensing & Localization**
 - **Trustworthy & Secure AI**
-
-### Selected Projects
-
-We develop learning systems for real-world networked environments, with a focus on efficient, adaptive, and collaborative intelligence.
-
-More details about our research, projects, publications, and members will be available here soon.
