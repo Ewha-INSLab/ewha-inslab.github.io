@@ -9,7 +9,7 @@ latest_posts:
   enabled: false
 ---
 
-# Intelligent Networked Systems Lab @ Ewha
+# Intelligent Networked Systems Lab 
 
 <div class="row align-items-center">
 
