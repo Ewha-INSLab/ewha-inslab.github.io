@@ -28,7 +28,7 @@ latest_posts:
     <ul>
       <li><strong>Federated & Collaborative AI</strong></li>
       <li><strong>Multimodal AI</strong></li>
-      <li><strong>Intelligent Sensing & Localization</strong></li>
+      <li><strong>Spatial Intelligence</strong></li>
       <li><strong>Brain–Human AI</strong></li>
     </ul>
   </div>
