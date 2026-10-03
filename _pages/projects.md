@@ -71,11 +71,11 @@ nav_order: 2
           <div class="col-md-4 text-center mb-3 mb-md-0">
             <img src="/assets/img/sensing-localization.png"
                  class="img-fluid rounded"
-                 alt="Intelligent Sensing and Localization">
+                 alt="Spatial Intelligence">
           </div>
 
           <div class="col-md-8">
-            <h3 class="card-title">Intelligent Sensing & Localization</h3>
+            <h3 class="card-title">Spatial Intelligence</h3>
             <p class="mb-0">
               We explore intelligent sensing and localization using audio,
               wireless signals, and other environmental signals to enable
