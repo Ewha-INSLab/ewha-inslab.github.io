@@ -61,8 +61,10 @@ B.S. in Electrical Engineering, *summa cum laude*, 2001
 **Ewha Womans University**, Seoul, South Korea
 Professor, Department of Computer Science and Engineering, 2023–Present
 
+**Ewha Womans University**, Seoul, South Korea
 Associate Professor, Department of Computer Science and Engineering, 2018–2023
 
+**Ewha Womans University**, Seoul, South Korea
 Assistant Professor, Department of Computer Science and Engineering, 2012–2018
 
 **AT&T Labs**, San Ramon, CA, USA
