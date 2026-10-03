@@ -1,6 +1,5 @@
 ---
 layout: about
-title: INSLab
 permalink: /
 
 profile:
@@ -15,7 +14,9 @@ latest_posts:
   enabled: false
 ---
 
-# Intelligent Networked Systems Lab @ Ewha
+# Intelligent Networked Systems Lab
+
+**INSLab** at **Ewha Womans University**
 
 We design intelligent systems that learn, adapt, and collaborate across devices, networks, and modalities.
 
@@ -36,7 +37,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">June 2026</small>
-        <h5 class="card-title mt-2">EchoLoc accepted at Interspeech 2026</h5>
+        <h6 class="card-title mt-2">EchoLoc accepted at Interspeech 2026</h6>
         <p class="mb-0">
           Our paper,
           <strong>"EchoLoc: Audio-Aware Object Grounding via Joint Heatmap and Box-Level Localization,"</strong>
@@ -51,7 +52,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">March 2026</small>
-        <h5 class="card-title mt-2">Dr. JinYi Yoon joins Inha University</h5>
+        <h6 class="card-title mt-2">Dr. JinYi Yoon joins Inha University</h6>
         <p class="mb-0">
           Our PhD alumnus <strong>Dr. JinYi Yoon</strong> has joined Inha University
           as an Assistant Professor in the Department of Computer Engineering.
@@ -65,7 +66,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">July 2025</small>
-        <h5 class="card-title mt-2">CollectiveFL accepted at IEEE MASS 2025</h5>
+        <h6 class="card-title mt-2">CollectiveFL accepted at IEEE MASS 2025</h6>
         <p class="mb-0">
           Our paper,
           <strong>"CollectiveFL: Edge-to-Edge Collective Intelligence Transfer in Federated Continual Learning,"</strong>
@@ -79,7 +80,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">December 2024</small>
-        <h5 class="card-title mt-2">CollageMap accepted at IEEE PerCom 2025</h5>
+        <h6 class="card-title mt-2">CollageMap accepted at IEEE PerCom 2025</h6>
         <p class="mb-0">
           Our paper,
           <strong>"CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization,"</strong>
@@ -93,7 +94,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">October 2024</small>
-        <h5 class="card-title mt-2">GAN-Loc accepted at IEEE SECON 2024</h5>
+        <h6 class="card-title mt-2">GAN-Loc accepted at IEEE SECON 2024</h6>
         <p class="mb-0">
           Our paper,
           <strong>"GAN-Loc: Empowering Indoor Localization for Unknown Areas via Generative Fingerprint Map,"</strong>
