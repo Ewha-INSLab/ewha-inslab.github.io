@@ -42,6 +42,8 @@ latest_posts:
 
 </div>
 
+<br>
+
 ### News
 
 <div class="row">
