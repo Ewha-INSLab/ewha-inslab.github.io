@@ -15,7 +15,6 @@ nav: false
   </div>
 
   <div class="col-md-9">
-    <h2>HyungJune Lee</h2>
     <p class="mb-1">
       Professor, Department of Computer Science and Engineering<br>
       Ewha Womans University, Seoul, South Korea
