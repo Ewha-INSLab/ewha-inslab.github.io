@@ -35,7 +35,7 @@ Our research focuses on intelligent systems that learn, adapt, sense, and collab
     <div class="card">
       <div class="card-body">
         <small class="text-muted">June 2026</small>
-        <h7 class="card-title mt-2">EchoLoc accepted at Interspeech 2026</h7>
+        <h6 class="card-title mt-2">EchoLoc accepted at Interspeech 2026</h6>
         <p class="mb-0">
           Our paper,
           <strong>"EchoLoc: Audio-Aware Object Grounding via Joint Heatmap and Box-Level Localization,"</strong>
