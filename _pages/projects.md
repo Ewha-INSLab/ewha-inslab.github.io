@@ -88,30 +88,28 @@ nav_order: 2
     </div>
   </div>
 
-  <!-- Trustworthy & Secure AI -->
+  <!-- Brain–Human AI -->
   <div class="col-12 mb-4">
     <div class="card">
       <div class="card-body">
         <div class="row align-items-center">
 
           <div class="col-md-4 text-center mb-3 mb-md-0">
-            <img src="/assets/img/trustworthy-ai.png"
+            <img src="/assets/img/research/brain-human-ai.png"
                  class="img-fluid rounded"
-                 alt="Trustworthy and Secure AI">
+                 alt="Brain–Human AI">
           </div>
 
           <div class="col-md-8">
-            <h3 class="card-title">Trustworthy & Secure AI</h3>
+            <h3 class="card-title">Brain–Human AI</h3>
             <p class="mb-0">
-              We investigate privacy, robustness, security, and trustworthy
-              learning techniques for reliable AI systems operating in
-              distributed and networked environments.
+              We explore intelligent interfaces between human brains and
+              computational systems, with a focus on bidirectional continual
+              neural knowledge transfer, brain–computer interfaces, and
+              machine-assisted learning across individuals.
             </p>
           </div>
-
         </div>
       </div>
-    </div>
   </div>
-
 </div>
