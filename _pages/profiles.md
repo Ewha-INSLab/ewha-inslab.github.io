@@ -23,7 +23,9 @@ nav_order: 1
           </div>
 
           <div class="flex-grow-1">
-            <h3 class="card-title mb-2">HyungJune Lee</h3>
+            <h3 class="card-title mb-2">
+              <a href="/hyungjune-lee/">HyungJune Lee</a>
+            </h3>
 
             <p class="mb-3">
               <strong>Professor, Department of Computer Science and Engineering</strong><br>
