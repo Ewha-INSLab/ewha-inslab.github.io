@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title: Professor HyungJune Lee
 permalink: /hyungjune-lee/
