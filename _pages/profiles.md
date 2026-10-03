@@ -39,14 +39,11 @@ nav_order: 1
             </p>
 
             <p>
-              My research interests are in the area of AI-driven edge computing
-              architecture and network systems: on-device AI with collaborative
-              learning and prediction over wireless connected edge devices,
-              continual learning and few-shot learning at the edge, on-device
-              AI-based network intrusion detection system, generative AI-driven
-              indoor localization for unknown environments, behavioral/predictive
-              modeling of user mobility, and Internet-of-Things (IoT) and edge
-              computing infrastructure design and applications.
+              My research interests are in AI-driven edge computing architecture
+              and network systems, including federated and collaborative learning,
+              continual learning and knowledge transfer, multimodal and edge AI,
+              intelligent sensing and indoor localization, and Brain–Human AI with
+              brain–computer interfaces.
             </p>
 
             <p class="mb-0">
