@@ -41,7 +41,7 @@ I am looking for passionate undergraduate, master's, and Ph.D. students, as well
 * Federated and collaborative learning
 * Continual learning and knowledge transfer
 * Multimodal and edge AI
-* Intelligent sensing and indoor localization
+* Spatial intelligence
 * Brain–Human AI and brain–computer interfaces
 * Networked intelligence and edge computing
 
