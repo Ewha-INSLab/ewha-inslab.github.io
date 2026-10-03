@@ -15,9 +15,7 @@ latest_posts:
   enabled: false
 ---
 
-# Intelligent Networked Systems Lab
-
-**INSLab** at **Ewha Womans University**
+# Intelligent Networked Systems Lab @ Ewha
 
 We design intelligent systems that learn, adapt, and collaborate across devices, networks, and modalities.
 
