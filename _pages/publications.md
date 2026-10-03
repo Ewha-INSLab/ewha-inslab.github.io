@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications from the Intelligent Networked Systems Lab at Ewha Womans University.
+description: Publications from the Intelligent Networked Systems Lab at Ewha Womans University
 nav: true
 nav_order: 3
 ---
