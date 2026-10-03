@@ -1,63 +1,117 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 description: Research areas and selected research projects of the Intelligent Networked Systems Lab.
-nav: false
+nav: true
 nav_order: 2
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="row">
+
+  <!-- Federated & Collaborative AI -->
+  <div class="col-12 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <div class="row align-items-center">
+
+          <div class="col-md-4 text-center mb-3 mb-md-0">
+            <img src="/assets/img/federated-ai.png"
+                 class="img-fluid rounded"
+                 alt="Federated and Collaborative AI">
+          </div>
+
+          <div class="col-md-8">
+            <h3 class="card-title">Federated & Collaborative AI</h3>
+            <p class="mb-0">
+              We develop learning and knowledge transfer methods for intelligent
+              systems that collaborate across distributed and heterogeneous devices,
+              with a focus on federated learning, continual learning, and
+              device-to-device knowledge transfer.
+            </p>
+          </div>
+
+        </div>
+      </div>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
+  <!-- Multimodal AI -->
+  <div class="col-12 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <div class="row align-items-center">
 
-<!-- Display projects without categories -->
+          <div class="col-md-4 text-center mb-3 mb-md-0">
+            <img src="/assets/img/multimodal-ai.png"
+                 class="img-fluid rounded"
+                 alt="Multimodal AI">
+          </div>
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+          <div class="col-md-8">
+            <h3 class="card-title">Multimodal AI</h3>
+            <p class="mb-0">
+              We develop AI systems that learn from and integrate diverse
+              modalities, including vision, audio, language, and sensor data,
+              with an emphasis on efficient multimodal intelligence at the edge.
+            </p>
+          </div>
 
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+        </div>
+      </div>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+
+  <!-- Intelligent Sensing & Localization -->
+  <div class="col-12 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <div class="row align-items-center">
+
+          <div class="col-md-4 text-center mb-3 mb-md-0">
+            <img src="/assets/img/sensing-localization.png"
+                 class="img-fluid rounded"
+                 alt="Intelligent Sensing and Localization">
+          </div>
+
+          <div class="col-md-8">
+            <h3 class="card-title">Intelligent Sensing & Localization</h3>
+            <p class="mb-0">
+              We explore intelligent sensing and localization using audio,
+              wireless signals, and other environmental signals to enable
+              robust spatial understanding and context-aware intelligence.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
   </div>
-  {% endif %}
-{% endif %}
+
+  <!-- Trustworthy & Secure AI -->
+  <div class="col-12 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <div class="row align-items-center">
+
+          <div class="col-md-4 text-center mb-3 mb-md-0">
+            <img src="/assets/img/trustworthy-ai.png"
+                 class="img-fluid rounded"
+                 alt="Trustworthy and Secure AI">
+          </div>
+
+          <div class="col-md-8">
+            <h3 class="card-title">Trustworthy & Secure AI</h3>
+            <p class="mb-0">
+              We investigate privacy, robustness, security, and trustworthy
+              learning techniques for reliable AI systems operating in
+              distributed and networked environments.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
