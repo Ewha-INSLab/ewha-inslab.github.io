@@ -48,7 +48,9 @@ I am looking for passionate undergraduate, master's, and Ph.D. students, as well
 ## Education
 
 **Stanford University**, Stanford, CA, USA
-Ph.D. in Electrical Engineering, 2010 <br>
+Ph.D. in Electrical Engineering, 2010 
+
+**Stanford University**, Stanford, CA, USA
 M.S. in Electrical Engineering, 2006
 
 **Seoul National University**, Seoul, South Korea
