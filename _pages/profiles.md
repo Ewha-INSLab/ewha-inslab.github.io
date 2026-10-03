@@ -18,7 +18,7 @@ nav_order: 1
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 200px;">
             <img src="/assets/img/prof_pic.png"
                  class="img-fluid rounded"
-                 style="max-width: 180px;"
+                 style="max-width: 140px;"
                  alt="HyungJune Lee">
           </div>
 
