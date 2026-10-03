@@ -47,24 +47,24 @@ I am looking for passionate undergraduate, master's, and Ph.D. students, as well
 
 ## Education
 
-**Stanford University**, Stanford, CA, USA
+**Stanford University**, Stanford, CA, USA<br>
 Ph.D. in Electrical Engineering, 2010 
 
-**Stanford University**, Stanford, CA, USA
+**Stanford University**, Stanford, CA, USA<br>
 M.S. in Electrical Engineering, 2006
 
-**Seoul National University**, Seoul, South Korea
+**Seoul National University**, Seoul, South Korea<br>
 B.S. in Electrical Engineering, *summa cum laude*, 2001
 
 ## Professional Experience
 
-**Ewha Womans University**, Seoul, South Korea
+**Ewha Womans University**, Seoul, South Korea<br>
 Professor, Department of Computer Science and Engineering, 2023–Present
 
-**Ewha Womans University**, Seoul, South Korea
+**Ewha Womans University**, Seoul, South Korea<br>
 Associate Professor, Department of Computer Science and Engineering, 2018–2023
 
-**Ewha Womans University**, Seoul, South Korea
+**Ewha Womans University**, Seoul, South Korea<br>
 Assistant Professor, Department of Computer Science and Engineering, 2012–2018
 
 **AT&T Labs**, San Ramon, CA, USA
