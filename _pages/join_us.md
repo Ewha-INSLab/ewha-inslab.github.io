@@ -2,7 +2,7 @@
 layout: page
 title: join us
 permalink: /join-us/
-description: Opportunities for PhD, MS, and postdoctoral researchers at the Intelligent Networked Systems Lab.
+description: Opportunities for PhD, MS, and postdoctoral researchers at the Intelligent Networked Systems Lab
 nav: true
 nav_order: 6
 ---
