@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: People
+title: people
 description: Faculty, students, researchers, and alumni of the Intelligent Networked Systems Lab.
 nav: true
 nav_order: 1
@@ -70,7 +70,7 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/hongkyeong_jung.jpg"
+            <img src="/assets/img/hongkyeong_jung.png"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
                  alt="Hongkyeong Jung">
@@ -95,40 +95,14 @@ nav_order: 1
 ## M.S. Students
 
 <div class="row">
-
+  
   <div class="col-12 mb-4">
     <div class="card">
       <div class="card-body">
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/sookyeong_kim.jpg"
-                 class="img-fluid rounded"
-                 style="max-width: 140px;"
-                 alt="Sookyeong Kim">
-          </div>
-
-          <div class="flex-grow-1">
-            <h4 class="card-title">Sookyeong Kim</h4>
-            <p class="mb-0">
-              <strong>Research Topic:</strong>
-              Multi-modal Knowledge Translation via Federated Learning
-            </p>
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-  <div class="col-12 mb-4">
-    <div class="card">
-      <div class="card-body">
-        <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
-
-          <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/su-hyeon_bae.jpg"
+            <img src="/assets/img/su-hyeon_bae.jpg"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
                  alt="Su-hyeon Bae">
@@ -154,7 +128,7 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/eunjin_park.jpg"
+            <img src="/assets/img/eunjin_park.jpg"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
                  alt="Eunjin Park">
@@ -212,17 +186,17 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/junghwa_shin.jpg"
+            <img src="/assets/img/yoonseo_kim.jpg"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
-                 alt="Junghwa Shin">
+                 alt="Yoonseo Kim">
           </div>
 
           <div class="flex-grow-1">
-            <h4 class="card-title">Junghwa Shin</h4>
+            <h4 class="card-title">Yoonseo Kim</h4>
             <p class="mb-0">
               <strong>Research Topic:</strong>
-              Cross-Modal Object Detection in Multi-modal Federated Learning
+              Dynamic Modality Selection and Learning
             </p>
           </div>
 
@@ -238,7 +212,32 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/people/yeonwoo_kim.jpg"
+            <img src="/assets/img/jeein_min.jpg"
+                 class="img-fluid rounded"
+                 style="max-width: 140px;"
+                 alt="Jeein Min">
+          </div>
+
+          <div class="flex-grow-1">
+            <h4 class="card-title">Jeein Min</h4>
+            <p class="mb-0">
+              <strong>Research Topic:</strong>
+              Dynamic Modality Selection and Learning
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="col-12 mb-4">
+    <div class="card">
+      <div class="card-body">
+        <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
+
+          <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
+            <img src="/assets/img/yeonwoo_kim.jpg"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
                  alt="Yeonwoo Kim">
@@ -248,7 +247,7 @@ nav_order: 1
             <h4 class="card-title">Yeonwoo Kim</h4>
             <p class="mb-0">
               <strong>Research Topic:</strong>
-              Cross-Modal Object Detection in Multi-modal Federated Learning
+              Cross-Modal Alignment and Detection in Multi-modal Federated Learning
             </p>
           </div>
 
@@ -256,7 +255,7 @@ nav_order: 1
       </div>
     </div>
   </div>
-
+  
 </div>
 
 
@@ -266,7 +265,7 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Sookyeong Kim</strong>
+    <strong>Sookyeong Kim</strong> - Master student (2024-2026)
   </div>
 </div>
 
@@ -275,8 +274,8 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Mahlet Workneh</strong><br>
-    <strong>Munkhtuya Tumurchuluun</strong>
+    <strong>Mahlet Workneh</strong> - Master student (2023-2025)<br>
+    <strong>Munkhtuya Tumurchuluun</strong> - Master student (2023-2025)
   </div>
 </div>
 
@@ -285,9 +284,9 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Yeawon Yoo</strong><br>
     <strong>Dr. JinYi Yoon</strong> — Postdoc (2022-2023), PhD student (2019-2022).
-    Currently Assistant Professor at Inha University, South Korea.
+    Currently Assistant Professor at Inha University, South Korea.</strong><br>
+    <strong>Yeawon Yoo</strong> - Master student (2022-2024).
   </div>
 </div>
 
@@ -296,7 +295,7 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Jeihee Cho</strong><br>
+    <strong>Jeihee Cho</strong> - Master student (2021-2023)<br>
     <strong>Dayeon Kang</strong> — Bachelor student (2019-2023).
     Currently CS Ph.D. student at University of Massachusetts, Amherst, USA.
   </div>
