@@ -258,8 +258,9 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Dr. JinYi Yoon</strong> — Postdoc (2022-2024), PhD student (2019-2022).
-    Currently Assistant Professor at Inha University, South Korea.<br>
+    Currently Assistant Professor at Inha University, South Korea<br>
     <strong>Yeawon Yoo</strong> - Master student (2022-2024).
+    Currently Ph.D. student at Ewha Womans University
   </div>
 </div>
 
@@ -270,7 +271,7 @@ nav_order: 1
   <div class="card-body py-3">
     <strong>Jeihee Cho</strong> - Master student (2021-2023)<br>
     <strong>Dayeon Kang</strong> — Bachelor student (2019-2023).
-    Currently CS Ph.D. student at University of Massachusetts, Amherst, USA.
+    Currently CS Ph.D. student at University of Massachusetts, Amherst, USA
   </div>
 </div>
 
@@ -280,7 +281,7 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Jeewoon Kim</strong> — Bachelor student (2018-2022).
-    Currently CS M.S. student at University of California, Irvine, USA.
+    Currently CS M.S. student at University of California, Irvine, USA
   </div>
 </div>
 
@@ -290,16 +291,16 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Dr. Thi-Nga Dao</strong> — Postdoc (2021).
-    Currently Faculty member at Le Quy Don Technical University, Vietnam.<br>
+    Currently Faculty member at Le Quy Don Technical University, Vietnam<br>
 
     <strong>Jiho Lee</strong> — Master student (2019-2021).
-    Currently CS Ph.D. student at VirginiaTech, Virginia, USA.<br>
+    Currently CS Ph.D. student at VirginiaTech, Virginia, USA<br>
 
     <strong>Yeongsin Byeon</strong> — Bachelor student (2019-2021).
-    Currently at KAIST.<br>
+    Currently at KAIST<br>
 
     <strong>Irene Cho</strong> — Bachelor student (2021).
-    Currently at Ewha Womans University.
+    Currently at Ewha Womans University
   </div>
 </div>
 
@@ -309,10 +310,10 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Seona Lee</strong> — Master student (2018-2020).
-    Currently at Naver Corp.<br>
+    Currently at Naver Corp<br>
 
     <strong>YeonJin Jin</strong> — Master student (2018-2020).
-    Currently at LINE Corp.
+    Currently at LINE Corp
   </div>
 </div>
 
@@ -325,10 +326,10 @@ nav_order: 1
     Currently CS Ph.D. student at University of Southern California, USA.<br>
 
     <strong>Narangerelt Batsoyol</strong> — Master student (2017-2019).
-    Currently CS Ph.D. student at University of California, San Diego, USA.<br>
+    Currently CS Ph.D. student at University of California, San Diego, USA<br>
 
     <strong>JinYi Yoon</strong> — Master student (2017-2019).
-    Currently Ph.D. student at Ewha Womans University.
+    Currently Ph.D. student at Ewha Womans University
   </div>
 </div>
 
@@ -338,10 +339,10 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>So-Yeon Park</strong> — Master student (2016-2018).
-    Currently at Samsung Electronics.<br>
+    Currently at Samsung Electronics<br>
 
     <strong>Dr. Minsu Lee</strong> — Research professor (2014-2018).
-    Currently Research Professor at Seoul National University.
+    Currently Assistant Professor at Sungshin Women's University
   </div>
 </div>
 
@@ -351,10 +352,10 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>HyunAe Kim</strong> — Master student (2015-2017).
-    Currently at Mando Corporation.<br>
+    Currently at Mando Corporation<br>
 
     <strong>Dahee Jeong</strong> — Master student (2015-2017).
-    Currently at Lotte Data Communication.
+    Currently at Lotte Data Communication
   </div>
 </div>
 
@@ -364,7 +365,7 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Nusrat Sharmin</strong> — Master student (2014-2016).
-    Currently Adjunct Professor at International Islamic University Chittagong, Bangladesh.
+    Currently Adjunct Professor at International Islamic University Chittagong, Bangladesh
   </div>
 </div>
 
@@ -374,21 +375,21 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Kyeongah Han</strong> — Bachelor student (2013-2014).
-    Currently at CJ Systems.<br>
+    Currently at CJ Systems<br>
 
     <strong>Youngjung Kwon</strong> — Bachelor student (2014).
-    Currently at Yonsei University.<br>
+    Currently at Yonsei University<br>
 
     <strong>Mohammad Baqer Zakya</strong> — Bachelor student (2014).
-    Currently at Ewha Womans University.<br>
+    Currently at Ewha Womans University<br>
 
     <strong>Ji-Hyeon Kim</strong> — Bachelor student (2014).
-    Currently at Ewha Womans University.<br>
+    Currently at Ewha Womans University<br>
 
     <strong>Jinhee Yoo</strong> — Bachelor student (2013-2014).
-    Currently at Ewha Womans University.<br>
+    Currently at Ewha Womans University<br>
 
-    <strong>Minkyoung Cho</strong> — Bachelor student (2014).
+    <strong>Minkyoung Cho</strong> — Bachelor student (2014)
     Currently at KAIST.
   </div>
 </div>
