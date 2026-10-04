@@ -238,7 +238,7 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Sookyeong Kim</strong> - Master student (2024-2026)
+    <strong>Sookyeong Kim</strong> — Master student (2024-2026)
   </div>
 </div>
 
@@ -247,8 +247,8 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Mahlet Workneh</strong> - Master student (2023-2025)<br>
-    <strong>Munkhtuya Tumurchuluun</strong> - Master student (2023-2025)
+    <strong>Mahlet Workneh</strong> — Master student (2023-2025)<br>
+    <strong>Munkhtuya Tumurchuluun</strong> — Master student (2023-2025)
   </div>
 </div>
 
@@ -259,7 +259,7 @@ nav_order: 1
   <div class="card-body py-3">
     <strong>Dr. JinYi Yoon</strong> — Postdoc (2022-2024), PhD student (2019-2022).
     Currently <a href="https://unilab.inha.ac.kr/">Assistant Professor</a> at Inha University, South Korea<br> 
-    <strong>Yeawon Yoo</strong> - Master student (2022-2024).
+    <strong>Yeawon Yoo</strong> — Master student (2022-2024).
     Currently Ph.D. student at Ewha Womans University
   </div>
 </div>
@@ -269,7 +269,7 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Jeihee Cho</strong> - Master student (2021-2023)<br>
+    <strong>Jeihee Cho</strong> — Master student (2021-2023)<br>
     <strong>Dayeon Kang</strong> — Bachelor student (2019-2023).
     Currently CS Ph.D. student at University of Massachusetts, Amherst, USA
   </div>
@@ -403,6 +403,6 @@ nav_order: 1
     Currently at KAIST<br>
 
     <strong>Yourim Park</strong> — Bachelor student (2013).
-    Currently at Ewha Womans University.
+    Currently at Ewha Womans University
   </div>
 </div>
