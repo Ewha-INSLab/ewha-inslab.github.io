@@ -322,11 +322,11 @@ nav_order: 1
 
 <div class="card mb-3">
   <div class="card-body py-3">
-    <strong>Christina SuYong Shin</strong> — Master student (2017-2019).
-    Currently CS Ph.D. student at University of Southern California, USA.<br>
+    <strong>Christina SuYong Shin</strong> — Master student (2017-2019)
+    Currently Google, Mountain View, CA, USA.<br>
 
     <strong>Narangerelt Batsoyol</strong> — Master student (2017-2019).
-    Currently CS Ph.D. student at University of California, San Diego, USA<br>
+    Currently IBM Watson Research, San Jose, CA, USA<br>
 
     <strong>JinYi Yoon</strong> — Master student (2017-2019).
     Currently Ph.D. student at Ewha Womans University
@@ -390,7 +390,7 @@ nav_order: 1
     Currently at Ewha Womans University<br>
 
     <strong>Minkyoung Cho</strong> — Bachelor student (2014)
-    Currently at KAIST.
+    Currently at KAIST
   </div>
 </div>
 
@@ -400,7 +400,7 @@ nav_order: 1
 <div class="card mb-3">
   <div class="card-body py-3">
     <strong>Hyunjeong Cho</strong> — Bachelor student (2013).
-    Currently at KAIST.<br>
+    Currently at KAIST<br>
 
     <strong>Yourim Park</strong> — Bachelor student (2013).
     Currently at Ewha Womans University.
