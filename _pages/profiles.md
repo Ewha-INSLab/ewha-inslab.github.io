@@ -210,7 +210,7 @@ nav_order: 1
         <div class="d-flex flex-column flex-md-row align-items-center align-items-md-start">
 
           <div class="text-center me-md-4 mb-3 mb-md-0" style="flex: 0 0 160px;">
-            <img src="/assets/img/yeonwoo_kim.jpg"
+            <img src="/assets/img/yeonwoo_kim.png"
                  class="img-fluid rounded"
                  style="max-width: 140px;"
                  alt="Yeonwoo Kim">
