@@ -85,9 +85,9 @@ Senior Staff Scientist, 2010–2011
 ## Contact
 
 **Intelligent Networked Systems Lab (INSLab)**<br>
-Department of Computer Science and Engineering
-Ewha Womans University
-52 Ewhayeodae-gil, Seodaemun-gu
+Department of Computer Science and Engineering<br>
+Ewha Womans University<br>
+52 Ewhayeodae-gil, Seodaemun-gu<br>
 Seoul 03760, Republic of Korea
 
 **Email:** hyungjune.lee [at] ewha.ac.kr
